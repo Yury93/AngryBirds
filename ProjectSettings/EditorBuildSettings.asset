@@ -6,9 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
-    guid: 2966f8fbb1c022f45b395b9c0e96cec0
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Versus.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: dce74dd28504a694b93a14770d6a63f7
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: dd53279026b8f3d478a048e7e83bf0c1
+  - enabled: 1
+    path: Assets/Scenes/Story 1.unity
+    guid: 357d7b2ae90dd0c4badf4e22a0f5b820
+  - enabled: 1
+    path: Assets/Scenes/Story 2.unity
+    guid: 26f7afafe10bf1341a0f85e3dfea5d49
+  - enabled: 1
+    path: Assets/Scenes/Story 3.unity
+    guid: 95d4f2d013d9739408af0d988de724c9
+  - enabled: 1
+    path: Assets/Scenes/Story 5.unity
+    guid: 952f2b90d121e264ea0579d1a8e272c7
+  - enabled: 1
+    path: Assets/Scenes/StoryWin.unity
+    guid: 5fdeff5e6cad4ac4ea1a0a9727637422
+  - enabled: 1
+    path: Assets/Scenes/Story 4.unity
+    guid: afd46f33ff69f3d4e9c35cb3b9945e69
+  - enabled: 1
+    path: Assets/Scenes/Epilogue.unity
+    guid: a71df7d3c30471d4c977a8681223ff08
   m_configObjects: {}
